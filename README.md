@@ -3,7 +3,9 @@
 
 ### Identificação
 <b>Thayse Caroline Rosa</b>
+
 Endereço completo: Rua Coimbra, quadra 5 lote 13, Forquilhas-SJ 
+
 Sou uma pessoa prestativa, organizada e dedicada. Tenho proatividade na busca de conhecimentos que enriqueçam a aprendizagem de novas receitas. Entretanto, busco sempre aprimorar a administração de tempo e o trabalho em equipe.
 
 ### Formação Acadêmica
