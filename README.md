@@ -55,3 +55,12 @@ Inglês intermediário
 [jogo cartas](Logica_Computacional/jogo_cartas.java)
 
 [juros](Logica_Computacional/juros.java)
+
+## Banco de Dados
+[zoologico](Banco/Atv1.SQL)
+
+## Modelagem de Sistemas
+[banda](Modelagem/banda)
+
+## Programação de Aplicativos
+[alecrim_dourado](ProgramacaoApp/Atv1.java)
