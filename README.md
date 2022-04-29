@@ -1,4 +1,4 @@
-# Portfólio 2B - Técnico
+# Portfólio - Técnico
 ## Sobre mim
 
 ### Identificação
@@ -60,7 +60,7 @@ Inglês intermediário
 [zoologico](Portfolio3Ano/Banco/Atv1.SQL)
 
 ## Modelagem de Sistemas
-[banda](Modelagem/banda)
+[banda](Portfolio3Ano/Modelagem/banda)
 
 ## Programação de Aplicativos
-[alecrim_dourado](ProgramacaoApp/Atv1.java)
+[alecrim_dourado](Portfolio3AnoProgramacaoApp/Atv1.java)
